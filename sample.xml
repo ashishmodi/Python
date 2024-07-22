@@ -1,0 +1,98 @@
+<s:Envelope xmlns:s="http://schemas.xmlsoap.org/soap/envelope/">
+    <s:Body xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <SolicitPANDetailsFetchALLKRAResponse xmlns="https://pancheck.www.kracvl.com">
+            <SolicitPANDetailsFetchALLKRAResult>
+                <ROOT xmlns="">
+                    <KYC_DATA>
+                        <APP_POS_CODE>1400228534</APP_POS_CODE>
+                        <APP_TYPE>I</APP_TYPE>
+                        <APP_NO>1698036287</APP_NO>
+                        <APP_DATE>23/10/2023</APP_DATE>
+                        <APP_PAN_NO>BBOPG4611H</APP_PAN_NO>
+                        <APP_PAN_COPY>Y</APP_PAN_COPY>
+                        <APP_EXMT>N</APP_EXMT>
+                        <APP_EXMT_CAT>00</APP_EXMT_CAT>
+                        <APP_EXMT_ID_PROOF>01</APP_EXMT_ID_PROOF>
+                        <APP_IPV_FLAG>E</APP_IPV_FLAG>
+                        <APP_IPV_DATE>23/10/2023</APP_IPV_DATE>
+                        <APP_GEN>M</APP_GEN>
+                        <APP_NAME>PRAMOD PRABHAKAR GOTAD</APP_NAME>
+                        <APP_F_NAME>PRABHAKAR PRABHAKAR</APP_F_NAME>
+                        <APP_REGNO></APP_REGNO>
+                        <APP_DOB_DT>09/07/1992</APP_DOB_DT>
+                        <APP_COMMENCE_DT>01/01/1900</APP_COMMENCE_DT>
+                        <APP_NATIONALITY>01</APP_NATIONALITY>
+                        <APP_OTH_NATIONALITY></APP_OTH_NATIONALITY>
+                        <APP_COMP_STATUS>00</APP_COMP_STATUS>
+                        <APP_OTH_COMP_STATUS></APP_OTH_COMP_STATUS>
+                        <APP_RES_STATUS>R</APP_RES_STATUS>
+                        <APP_RES_STATUS_PROOF></APP_RES_STATUS_PROOF>
+                        <APP_UID_NO>N</APP_UID_NO>
+                        <APP_COR_ADD1>63, , OPP PRATHAMIK AROGYA KENDRA</APP_COR_ADD1>
+                        <APP_COR_ADD2>KHALGAON</APP_COR_ADD2>
+                        <APP_COR_ADD3>RATNAGIRI, MAHARASHTRA</APP_COR_ADD3>
+                        <APP_COR_CITY>RATNAGIRI</APP_COR_CITY>
+                        <APP_COR_PINCD>415620</APP_COR_PINCD>
+                        <APP_COR_STATE>027</APP_COR_STATE>
+                        <APP_COR_CTRY>101</APP_COR_CTRY>
+                        <APP_OFF_NO></APP_OFF_NO>
+                        <APP_RES_NO></APP_RES_NO>
+                        <APP_MOB_NO>919921384377</APP_MOB_NO>
+                        <APP_FAX_NO></APP_FAX_NO>
+                        <APP_EMAIL>PRAMOD.GOTAD32@GMAIL.COM</APP_EMAIL>
+                        <APP_COR_ADD_PROOF>31</APP_COR_ADD_PROOF>
+                        <APP_COR_ADD_REF>999999999999</APP_COR_ADD_REF>
+                        <APP_COR_ADD_DT>01/01/1900</APP_COR_ADD_DT>
+                        <APP_PER_ADD1>63, , OPP PRATHAMIK AROGYA KENDRA</APP_PER_ADD1>
+                        <APP_PER_ADD2>KHALGAON</APP_PER_ADD2>
+                        <APP_PER_ADD3>RATNAGIRI, MAHARASHTRA</APP_PER_ADD3>
+                        <APP_PER_CITY>RATNAGIRI</APP_PER_CITY>
+                        <APP_PER_PINCD>415620</APP_PER_PINCD>
+                        <APP_PER_STATE>027</APP_PER_STATE>
+                        <APP_PER_CTRY>101</APP_PER_CTRY>
+                        <APP_PER_ADD_PROOF>31</APP_PER_ADD_PROOF>
+                        <APP_PER_ADD_REF>999999999999</APP_PER_ADD_REF>
+                        <APP_PER_ADD_DT>01/01/1900</APP_PER_ADD_DT>
+                        <APP_INCOME>03</APP_INCOME>
+                        <APP_OCC>01</APP_OCC>
+                        <APP_OTH_OCC></APP_OTH_OCC>
+                        <APP_POL_CONN>NA</APP_POL_CONN>
+                        <APP_DOC_PROOF>E</APP_DOC_PROOF>
+                        <APP_INTERNAL_REF>WEBSOLICIT</APP_INTERNAL_REF>
+                        <APP_BRANCH_CODE>HEADOFFICE</APP_BRANCH_CODE>
+                        <APP_MAR_STATUS>01</APP_MAR_STATUS>
+                        <APP_NETWRTH></APP_NETWRTH>
+                        <APP_NETWORTH_DT>01/01/1900</APP_NETWORTH_DT>
+                        <APP_INCORP_PLC></APP_INCORP_PLC>
+                        <APP_OTHERINFO></APP_OTHERINFO>
+                        <APP_ACC_OPENDT>01/01/1900</APP_ACC_OPENDT>
+                        <APP_ACC_ACTIVEDT>01/01/1900</APP_ACC_ACTIVEDT>
+                        <APP_ACC_UPDTDT>01/01/1900</APP_ACC_UPDTDT>
+                        <APP_FILLER1></APP_FILLER1>
+                        <APP_FILLER2></APP_FILLER2>
+                        <APP_FILLER3></APP_FILLER3>
+                        <APP_STATUS>07</APP_STATUS>
+                        <APP_STATUSDT>23/10/2023 11:27:57</APP_STATUSDT>
+                        <APP_ERROR_DESC></APP_ERROR_DESC>
+                        <APP_DUMP_TYPE>S</APP_DUMP_TYPE>
+                        <APP_DNLDDT>14/06/2024 17:13:33</APP_DNLDDT>
+                        <APP_REMARKS></APP_REMARKS>
+                        <APP_KYC_MODE>5</APP_KYC_MODE>
+                        <APP_UID_TOKEN></APP_UID_TOKEN>
+                        <APP_VER_NO>V33</APP_VER_NO>
+                        <APP_KRA_INFO>CVLKRA</APP_KRA_INFO>
+                        <APP_IOP_FLG>I</APP_IOP_FLG>
+                        <APP_SIGNATURE></APP_SIGNATURE>
+                    </KYC_DATA>
+                    <APP_PAN_SUMM>
+                        <APP_OTHKRA_CODE>CVLKRA</APP_OTHKRA_CODE>
+                        <APP_OTHKRA_BATCH>14062024171333</APP_OTHKRA_BATCH>
+                        <APP_REQ_DATE>14/06/2024</APP_REQ_DATE>
+                        <APP_RESPONSE_DATE>14/06/2024 17:13:33</APP_RESPONSE_DATE>
+                        <APP_TOTAL_REC>1</APP_TOTAL_REC>
+                    </APP_PAN_SUMM>
+                </ROOT>
+            </SolicitPANDetailsFetchALLKRAResult>
+        </SolicitPANDetailsFetchALLKRAResponse>
+    </s:Body>
+</s:Envelope>
